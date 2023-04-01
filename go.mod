@@ -1,4 +1,4 @@
-module github.com/danielfdickinson/image-handling-mod-hugo-dfd/exampleSite
+module github.com/danielfdickinson/image-handling-mod-demo
 
 go 1.15
 
