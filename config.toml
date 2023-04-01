@@ -28,11 +28,11 @@ home = ["HTML", "RSS", "nredirects"]
 imageConvertTo = "webp"
 mainSections = ["post"]
 redirectsDomains = [
-	"http://image-handling-mod.netlify.app/* https://image-handling-mod.demo.wildtechgarden.ca/:splat 301!",
-	"https://image-handling-mod.netlify.app/* https://image-handling-mod.demo.wildtechgarden.ca/:splat 301!",
-	"http://image-handling-mod.wildtechgarden.ca/* https://image-handling-mod.demo.wildtechgarden.ca/:splat 301!",
-	"https://image-handling-mod.wildtechgarden.ca/* https://image-handling-mod.demo.wildtechgarden.ca/:splat 301!",
-	"http://image-handling-mod.demo.wildtechgarden.com/* https://image-handling-mod.demo.wildtechgarden.ca/:splat 301!"
+	"http://image-handling-mod.netlify.app/* https://image-handling-mod.demo.wildtechgarden.com/:splat 301!",
+	"https://image-handling-mod.netlify.app/* https://image-handling-mod.demo.wildtechgarden.com/:splat 301!",
+	"http://image-handling-mod.wildtechgarden.ca/* https://image-handling-mod.demo.wildtechgarden.com/:splat 301!",
+	"https://image-handling-mod.wildtechgarden.ca/* https://image-handling-mod.demo.wildtechgarden.com/:splat 301!",
+	"http://image-handling-mod.demo.wildtechgarden.com/* https://image-handling-mod.demo.wildtechgarden.com/:splat 301!"
 ]
 # Footnotes and TableOfContents don't work properly with a base href set in <head>, but we don't use either for this site.
 useBaseURL = true
