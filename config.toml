@@ -153,19 +153,15 @@ target = "assets/README-dfd-image-handling.md"
 
 [[module.imports.mounts]]
 source = "LICENSE"
-target = "assets/LICENSE"
-
-[[module.imports.mounts]]
-source = "README.md"
-target = "assets/README.md"
+target = "static/LICENSE"
 
 [[module.imports.mounts]]
 source = "ACKNOWLEDGEMENTS.md"
-target = "assets/ACKNOWLEDGEMENTS.md"
+target = "content/post/ACKNOWLEDGEMENTS.md"
 
 [[module.imports.mounts]]
 source = "README-NOTES.md"
-target = "assets/README-NOTES.md"
+target = "content/post/README-NOTES.md"
 
 [[module.imports.mounts]]
 source = "i18n"
