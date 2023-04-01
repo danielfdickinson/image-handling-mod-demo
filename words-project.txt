@@ -6,4 +6,5 @@ dontbreakthebackbutton
 isset
 nredirects
 sodipodi
+tbody
 webp
