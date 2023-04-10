@@ -5,6 +5,7 @@ HUGO_RESOURCEDIR
 Uncategorized
 ascface
 autofix
+autoupdate
 backgarden
 brycewray
 csslint
