@@ -17,6 +17,7 @@
 		"./LICENSE",
 		"./i18n/**",
 		"./node_modules",
+		"./tests/scripts/*",
 		"./words-*.txt"
 	],
 	"ignoreWords": [],
