@@ -12,6 +12,7 @@
 		}
 	],
 	"ignorePaths": [
+		"**/*.svg",
 		"./.github.disabled/**",
 		"./LICENSE",
 		"./i18n/**",
