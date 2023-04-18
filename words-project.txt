@@ -1,4 +1,6 @@
+DEPLOYEDBASEURL
 HOWTO
+HUGO_RESOURCEDIR
 Uncategorized
 ascface
 dont
