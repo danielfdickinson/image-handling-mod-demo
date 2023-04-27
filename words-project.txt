@@ -2,6 +2,7 @@ DEPLOYEDBASEURL
 HEREDOCS
 HOWTO
 HUGO_RESOURCEDIR
+LQIP
 Uncategorized
 ascface
 autofix
