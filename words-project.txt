@@ -14,6 +14,7 @@ danielfdickinson
 davidsneighbour
 dont
 dontbreakthebackbutton
+errorf
 frontmatter
 fullheight
 fullwidth
@@ -28,6 +29,7 @@ nredirects
 originalheight
 originalwidth
 pageref
+plainify
 shortcode
 singlesize
 sodipodi
