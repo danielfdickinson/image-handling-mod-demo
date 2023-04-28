@@ -38,5 +38,6 @@ stylelint
 substatic
 tbody
 testimage
+wcag
 webp
 wildtechgarden

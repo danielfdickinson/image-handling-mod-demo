@@ -30,12 +30,12 @@ else
 	SITESRC=${SITEROOT}
 fi
 
-if grep -q baseURL "${SITESRC}"/hugo.toml; then
-	CROOT="$(grep baseURL "${SITESRC}"/hugo.toml | \
+if grep -q baseURL "${SITESRC}"/config.toml; then
+	CROOT="$(grep baseURL "${SITESRC}"/config.toml | \
 	sed -e 's/^[^=]*= *\('\''\|"\)\([^'\''"]*\)\('\''\|"\)\( \|\n\)*$/\2/')"
 fi
 
-echo "Using ${CROOT} as canonicalRoot"
+echo "Using ${CROOT} as canonicalRoot" >&2
 
 SKIPS=""
 # shellcheck disable=SC2089
