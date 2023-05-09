@@ -155,11 +155,11 @@ target = "assets/README-dfd-image-handling.md"
 
 [[module.imports.mounts]]
 source = "LICENSE"
-target = "static/LICENSE"
+target = "assets/LICENSE"
 
 [[module.imports.mounts]]
 source = "LICENSE"
-target = "static/post/readme/LICENSE"
+target = "content/post/LICENSE"
 
 [[module.imports.mounts]]
 source = "ACKNOWLEDGEMENTS.md"
