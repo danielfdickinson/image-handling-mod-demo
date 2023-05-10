@@ -13,7 +13,7 @@ Demo/test site for DFDs image handling Hugo module
 
 ## Site with examples
 
-<https://image-handling-mod.demo.wildtechgarden.com>
+<https://image-handling-mod.demo.wildtechgarden.ca>
 
 ## The module this is meant to demo/test
 
