@@ -26,6 +26,7 @@ lastmod
 linebreak
 markdownlint
 nredirects
+nvmrc
 originalheight
 originalwidth
 pageref

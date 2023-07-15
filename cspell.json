@@ -17,6 +17,7 @@
 		"./LICENSE",
 		"./i18n/**",
 		"./node_modules",
+		"./requirements.txt",
 		"./tests/scripts/*",
 		"./words-*.txt"
 	],
