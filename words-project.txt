@@ -13,6 +13,7 @@ brycewray
 csslint
 danielfdickinson
 davidsneighbour
+deml
 dont
 dontbreakthebackbutton
 errorf
@@ -32,6 +33,7 @@ originalheight
 originalwidth
 pageref
 plainify
+rclone
 shortcode
 singlesize
 sodipodi
@@ -42,3 +44,4 @@ testimage
 wcag
 webp
 wildtechgarden
+wtgdeml

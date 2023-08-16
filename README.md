@@ -4,8 +4,8 @@ Demo/test site for DFDs image handling Hugo module
 
 ## Status
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/danielfdickinson/image-handling-mod-demo/main.svg)](https://results.pre-commit.ci/latest/github/danielfdickinson/image-handling-mod-demo/main)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/33073b8d-f181-4697-be67-2893ad70d45f/deploy-status)](https://app.netlify.com/sites/image-handling-mod/deploys)
+[![pre-commit.ci
+status](https://results.pre-commit.ci/badge/github/danielfdickinson/image-handling-mod-demo/main.svg)](https://results.pre-commit.ci/latest/github/danielfdickinson/image-handling-mod-demo/main)
 
 ## GitHub repository
 
@@ -13,7 +13,7 @@ Demo/test site for DFDs image handling Hugo module
 
 ## Site with examples
 
-<https://image-handling-mod.demo.wildtechgarden.ca>
+<https://www.image-handling-mod.wtg-demos.ca>
 
 ## The module this is meant to demo/test
 

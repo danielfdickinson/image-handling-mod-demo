@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../image-handling-mod-hugo-dfd"
+		},
+		{
+			"path": "../../minimal-test-theme-hugo-wtg"
+		}
+	],
+	"settings": {}
+}
