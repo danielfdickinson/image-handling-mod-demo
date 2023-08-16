@@ -97,7 +97,7 @@ disabled = true
 disabled = true
 
 [module]
-#replacements = "github.com/danielfdickinson/image-handling-mod-hugo-dfd -> ../../../image-handling-mod-hugo-dfd"
+#replacements = "github.com/danielfdickinson/image-handling-mod-hugo-dfd -> ../../image-handling-mod-hugo-dfd"
 
 [[module.mounts]]
 source = "static"

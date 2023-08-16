@@ -10,4 +10,4 @@ export HUGO_PARAMS_DEPLOYEDBASEURL="$URL"
 export BASEURL="$URL"
 
 HUGO_RESOURCEDIR="$(pwd)/resources" hugo --gc --minify -b $BASEURL
-rclone sync --progress public/ wtg-deml:image-handling-mod/
+rclone sync --progress public/ wtgdeml:image-handling-mod/
