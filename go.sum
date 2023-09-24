@@ -1,6 +1,4 @@
-github.com/danielfdickinson/image-handling-mod-hugo-dfd v0.0.0-20230816202503-ffd2002faf75 h1:oDIf6igLutLN7gv5GSq/Bv45Zwmd+uM12+zsNP6iD/I=
-github.com/danielfdickinson/image-handling-mod-hugo-dfd v0.0.0-20230816202503-ffd2002faf75/go.mod h1:h+vNqbDFVmrcnlUq1GsWtKS3HWw7wLDqM1PahGQjSOY=
-github.com/danielfdickinson/image-handling-mod-hugo-dfd v0.0.0-20230816205121-a0bc17f0815f h1:xOcIK45QXiciMHfBcqQPKWPKip+sEixJ/NGLDNx/ebA=
-github.com/danielfdickinson/image-handling-mod-hugo-dfd v0.0.0-20230816205121-a0bc17f0815f/go.mod h1:h+vNqbDFVmrcnlUq1GsWtKS3HWw7wLDqM1PahGQjSOY=
-github.com/wildtechgarden/minimal-test-theme-hugo-wtg v0.5.1-alpha.2 h1:5mEqlzNvYxDi59Zf1OTgXpfKRnb2LoLaX1G6v12/Mik=
-github.com/wildtechgarden/minimal-test-theme-hugo-wtg v0.5.1-alpha.2/go.mod h1:tcT4l0IHX8ifetQ3k/DQT3dqBeavIN6u/efkl7YCBlU=
+github.com/danielfdickinson/image-handling-mod-hugo-dfd v0.8.0-beta.2 h1:Q9cD/SS24FrkbJygVyZg/XtI8uNvER/WK3xEp8Fvkj8=
+github.com/danielfdickinson/image-handling-mod-hugo-dfd v0.8.0-beta.2/go.mod h1:h+vNqbDFVmrcnlUq1GsWtKS3HWw7wLDqM1PahGQjSOY=
+github.com/wildtechgarden/minimal-test-theme-hugo-wtg v0.5.5 h1:shuNeXytlk7MLuVPzme5weM/WKlsGO8u0CE4oIVNo/U=
+github.com/wildtechgarden/minimal-test-theme-hugo-wtg v0.5.5/go.mod h1:tcT4l0IHX8ifetQ3k/DQT3dqBeavIN6u/efkl7YCBlU=
