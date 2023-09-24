@@ -19,7 +19,7 @@ weight: 20
 
 span wrapper, alt as caption:
 
-![Photo of a rock garden with tulips and rust-coloured plants](backgarden-tulips+rocks.png)
+![Photo of a rock garden with tulips and rust-coloured plants](backgarden-tulips+rocks.png?w=2048)
 
 ## Via figure shortcode (but \<div> as wrapper)
 

@@ -7,6 +7,7 @@ tags:
     - featured
     - images
 imageFeaturedAlt: "A stack of various titled books on a light blue table or chair"
+imageFeaturedWidth: 2048
 imageLinkFull: true
 ---
 
