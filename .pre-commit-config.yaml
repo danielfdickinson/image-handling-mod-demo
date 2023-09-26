@@ -62,7 +62,7 @@ repos:
   - id: csslint
 
 - repo: "https://github.com/pre-commit/mirrors-eslint"
-  rev: v8.49.0
+  rev: v8.50.0
   hooks:
   - id: eslint
     additional_dependencies:
@@ -86,7 +86,7 @@ repos:
     exclude: ^(.*\.css$)
 
 - repo: "https://github.com/igorshubovych/markdownlint-cli"
-  rev: v0.36.0
+  rev: v0.37.0
   hooks:
   - id: markdownlint
     args: [--config, .markdownlint.json]
