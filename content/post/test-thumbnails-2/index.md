@@ -20,6 +20,6 @@ weight: 210
 
 ![Screenshot of a web page with an aqua theme (using alt as caption)](screenshot.png)
 
-![Photo of a rock garden with tulips and rust-coloured plants (using alt as caption)](backgarden-tulips+rocks.png?w=1724)
+![Photo of a rock garden with tulips and rust-coloured plants (using alt as caption)](backgarden-tulips+rocks.png?w=1280)
 
 ![Yorkshire Terrier Poodle cross (dog) curled up on a duvet and looking towards camera (using alt as caption)](cappy-on-bed.jpeg)

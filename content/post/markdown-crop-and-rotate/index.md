@@ -29,4 +29,4 @@ imageLinkFull: true
 
 ## Original image
 
-![Photo of a rock garden with tulips and rust-coloured plants](backgarden-tulips+rocks.png?w=1724)
+![Photo of a rock garden with tulips and rust-coloured plants](backgarden-tulips+rocks.png?w=1280)
