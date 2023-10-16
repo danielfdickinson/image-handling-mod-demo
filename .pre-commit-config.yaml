@@ -10,7 +10,7 @@ minimum_pre_commit_version: 3.1.1
 # yamllint disable rule:key-ordering
 repos:
 - repo: "https://github.com/pre-commit/pre-commit-hooks"
-  rev: v4.4.0
+  rev: v4.5.0
   hooks:
   - id: check-added-large-files
     exclude: ^(package-lock\.json$)
@@ -62,7 +62,7 @@ repos:
   - id: csslint
 
 - repo: "https://github.com/pre-commit/mirrors-eslint"
-  rev: v8.50.0
+  rev: v8.51.0
   hooks:
   - id: eslint
     additional_dependencies:
@@ -109,7 +109,7 @@ repos:
   - id: gitlint
 
 - repo: "https://github.com/editorconfig-checker/editorconfig-checker.python"
-  rev: 2.7.2
+  rev: 2.7.3
   hooks:
   - id: editorconfig-checker
     alias: ec
@@ -118,7 +118,7 @@ repos:
     exclude: ^(LICENSE$|README.md|package(-lock)?\.json$) # yamllint disable-line
 
 - repo: "https://github.com/streetsidesoftware/cspell-cli"
-  rev: v7.3.0
+  rev: v7.3.2
   hooks:
   - id: cspell
     args:
